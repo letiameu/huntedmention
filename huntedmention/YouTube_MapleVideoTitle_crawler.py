@@ -1,3 +1,8 @@
+'''
+Created on 2019. 7. 1.
+
+@author: Seleuchel
+'''
 from bs4 import BeautifulSoup
 import requests
 
